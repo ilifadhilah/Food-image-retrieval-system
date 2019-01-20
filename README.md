@@ -13,8 +13,8 @@ queryEval.py
 
 On anaconda prompt:
 1. To run full evaluation of database:-
-	>>python fullEval.py
+	>python fullEval.py
 2. To retrieve a different number of images
-	>>python fullEval.py -r 150
+	>python fullEval.py -r 150
 2. To run a retrieval based on image '100.jpg' from fooddb
-	>>python queryEval.py -d 100
+	>python queryEval.py -d 100
