@@ -7,9 +7,9 @@ Scripts were written by me and group partner:
 -getCodebook.py
 
 Scripts provided for assignment:
-featureExtraction.py
-fullEval.py
-queryEval.py
+-featureExtraction.py
+-fullEval.py
+-queryEval.py
 
 On anaconda prompt:
 1. To run full evaluation of database:-
