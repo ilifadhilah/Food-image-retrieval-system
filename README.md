@@ -11,5 +11,5 @@ Scripts provided for assignment:
 
 
 On anaconda prompt:
-To run a retrieval based on image '100.jpg' from fooddb
-	> ```python queryEval.py -d 100```
+To run a retrieval based on image '100.jpg' from fooddb:
+> ```python queryEval.py -d 100```
