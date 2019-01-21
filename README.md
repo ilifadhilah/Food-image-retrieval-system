@@ -1,5 +1,5 @@
 # Food-image-retrieval-system
-Design of features and methods to improve performance of image retrieval system for 10 types of Malaysian food
+The design of features and methods to improve performance of an image retrieval system for 10 types of Malaysian food.
 
 Scripts were written by me and group partner:
 1. computeDistances.py
