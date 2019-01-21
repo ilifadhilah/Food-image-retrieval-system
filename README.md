@@ -2,14 +2,15 @@
 Design of features and methods to improve performance of image retrieval system for 10 types of Malaysian food
 
 Scripts were written by me and group partner:
--computeDistances.py
--computeFeatures.py
--getCodebook.py
+1. computeDistances.py
+2. computeFeatures.py
+3. getCodebook.py
 
 Scripts provided for assignment:
--featureExtraction.py
--fullEval.py
--queryEval.py
+1. featureExtraction.py
+2. fullEval.py
+3. queryEval.py
+
 
 On anaconda prompt:
 1. To run full evaluation of database:-
